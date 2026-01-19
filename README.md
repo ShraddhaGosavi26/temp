@@ -1,7 +1,7 @@
 
 
 
-<!DOCTYPE html>
+<!--DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -159,7 +159,7 @@ body {
     font-family: 'Playfair Display', serif;
     font-size: 4rem;
     margin-bottom: 1rem;
-}
+}-->
 
 .hero-content p {
     font-size: 1.2rem;
