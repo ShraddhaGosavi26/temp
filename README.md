@@ -1,4 +1,6 @@
-# temp
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,7 +11,6 @@
     <link rel="stylesheet" href="web_pg.css">
 </head>
 <body>
-
     <nav class="navbar">
         <div class="nav-container">
             <h3 id="logo">Restro<span>Cafe</span></h3>
@@ -21,7 +22,6 @@
             </ul>
         </div>
     </nav>
-
     <header class="hero">
         <div class="hero-content">
             <h1>Taste the Tradition</h1>
@@ -29,7 +29,6 @@
             <a href="#menu" class="btn">Explore Menu</a>
         </div>
     </header>
-
     <section class="menu-section" id="menu">
         <div class="container">
             <h2 class="section-title">Our Popular Specials</h2>
@@ -61,7 +60,6 @@
             </div>
         </div>
     </section>
-
     <footer>
         <p>&copy; 2026 RestroCafe. Designed with ❤️ for coffee lovers.</p>
     </footer>
